@@ -1,6 +1,10 @@
 # Money App
 Aplicativo de finanças realizado no curso de RN, para controle de entrada e saída de valores de uma conta, utilizando Firebase para autenticação e banco de dados.
 
+# Técnologias utilizadas:
+  * React Native
+  * Firebase
+
 # Img
 <div align="center">
   <img src="https://user-images.githubusercontent.com/93951962/160300175-566f3b9a-0381-4f29-bc33-8a3719ee661f.png" height="500px" />
